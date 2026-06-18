@@ -1,16 +1,43 @@
-## Hi there 👋
+### 🚀 Olá, eu sou a Jessica
 
-<!--
-**JessCosta137/JessCosta137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vinde ao meu perfil! Aqui estou documentando minha evolução, exercícios e projetos práticos desenvolvidos na transição de carreira para a área de tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧑‍🚀 Sobre Mim
+
+Atualmente estou cursando graduação em **Análise e Desenvolvimento de Sistemas (ADS)**, no período noturno, e foquei meus esforços em uma transição de carreira consistente para a área de tecnologia. Meu objetivo é construir uma base sólida em programação, lógica e análise de dados.
+
+Concluí recentemente o curso **Eu Progr{amo} | Análise de Dados** pela **PrograMaria**, com 20 horas de imersão prática em Python, SQL e visualização de dados.
+
+---
+
+#### 📊 Conteúdo dos meus repositórios
+
+- **Análise de Dados com Python:** uso da biblioteca `pandas` para manipulação de dados, aplicação de filtros estruturados e extração de estatísticas descritivas.
+- **Lógica de Programação:** exercícios práticos para fixação de conceitos fundamentais.
+- **SQL com DBeaver:** criação de banco de dados SQLite com tabelas relacionais para análise de dados socioeconômicos de municípios brasileiros.
+- **Visualização de Dados:** gráficos com Matplotlib, Seaborn e Plotly para análise exploratória de dados.
+- **Regressão Linear:** modelagem de dados salariais com Scikit-learn, aplicando feature engineering e divisão treino/teste.
+
+---
+
+#### 🛠️ Tecnologias Utilizadas
+
+`Python 3` `Pandas` `SQL / SQLite` `DBeaver` `Scikit-learn` `Matplotlib / Seaborn / Plotly` `Google Colab & Jupyter Notebooks`
+
+---
+
+#### 📌 Projetos
+
+- **[programaria-python](https://github.com/JessCosta137/programaria-python)** — Exercícios e projetos desenvolvidos durante o curso Eu Progr{amo} da PrograMaria.
+- **[regressao-linear](https://github.com/JessCosta137/regressao-linear)** — Projeto de regressão linear com Python.
+- **[Dashboard - Análise de Diversidade 2022](https://datastudio.google.com/reporting/f3897bb9-0cd3-4f42-bf5c-932517a3e165)** — Visualização de dados (Looker Studio) com cruzamentos de gênero, etnia, escolaridade, senioridade e salário no setor de tecnologia, incluindo um mapa de calor com a concentração geográfica de respondentes no Brasil.
+
+---
+
+#### 📫 Vamos nos conectar
+
+[LinkedIn](https://www.linkedin.com/in/jessica-c-169a1934b/) · jessycosta@gmail.com
+
+Sinta-se à vontade para explorar os códigos, dar feedbacks ou se conectar comigo!
