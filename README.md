@@ -1,6 +1,6 @@
 ### 🚀 Olá, eu sou a Jessica
 
-Bem-vinde ao meu perfil! Aqui estou documentando minha evolução, exercícios e projetos práticos desenvolvidos na transição de carreira para a área de tecnologia.
+Bem-vindos ao meu perfil! Aqui estou documentando minha evolução, exercícios e projetos práticos desenvolvidos na transição de carreira para a área de tecnologia.
 
 ---
 
