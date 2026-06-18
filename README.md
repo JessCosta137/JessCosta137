@@ -32,12 +32,12 @@ Concluí recentemente o curso **Eu Progr{amo} | Análise de Dados** pela **Progr
 
 - **[programaria-python](https://github.com/JessCosta137/programaria-python)** — Exercícios e projetos desenvolvidos durante o curso Eu Progr{amo} da PrograMaria.
 - **[regressao-linear](https://github.com/JessCosta137/regressao-linear)** — Projeto de regressão linear com Python.
-- **[Dashboard - Análise de Diversidade 2022](https://datastudio.google.com/reporting/f3897bb9-0cd3-4f42-bf5c-932517a3e165)** — Visualização de dados (Looker Studio) com cruzamentos de gênero, etnia, escolaridade, senioridade e salário no setor de tecnologia, incluindo um mapa de calor com a concentração geográfica de respondentes no Brasil.
+- **[Dashboard - Análise de Diversidade (Base 2022)](https://datastudio.google.com/reporting/f3897bb9-0cd3-4f42-bf5c-932517a3e165)** — Visualização de dados (Looker Studio) a partir de uma base de pesquisa de 2022, com cruzamentos de gênero, etnia, escolaridade, senioridade e salário no setor de tecnologia, incluindo um mapa de calor com a concentração geográfica de respondentes no Brasil.
 
 ---
 
 #### 📫 Vamos nos conectar
 
-[LinkedIn](https://www.linkedin.com/in/jessica-c-169a1934b/) · jessycosta@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jessica-c-169a1934b/)
 
 Sinta-se à vontade para explorar os códigos, dar feedbacks ou se conectar comigo!
