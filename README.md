@@ -34,6 +34,15 @@ Concluí recentemente o curso **Eu Progr{amo} | Análise de Dados** pela **Progr
 - **[regressao-linear](https://github.com/JessCosta137/regressao-linear)** — Projeto de regressão linear com Python.
 - **[Dashboard - Análise de Diversidade (Base 2022)](https://datastudio.google.com/reporting/f3897bb9-0cd3-4f42-bf5c-932517a3e165)** — Visualização de dados (Looker Studio) a partir de uma base de pesquisa de 2022, com cruzamentos de gênero, etnia, escolaridade, senioridade e salário no setor de tecnologia, incluindo um mapa de calor com a concentração geográfica de respondentes no Brasil.
 
+
+---
+
+## 👤 Sobre Mim
+
+O Meu objetivo é construir uma base sólida em programação, lógica e análise de dados, direcionando essas competências para atuar estrategicamente em **Cybersecurity e Perícia Computacional Forense**.
+
+Concluí recentemente o curso *Eu Progr{amo} | Análise de Dados* pela PrograMaria, com 20 horas de imersão prática em Python, SQL e visualização de dados.
+
 ---
 
 #### 📫 Vamos nos conectar
