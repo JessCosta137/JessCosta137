@@ -6,9 +6,7 @@ Bem-vindos ao meu perfil! Aqui estou documentando minha evolução, exercícios 
 
 #### 🧑‍🚀 Sobre Mim
 
-Atualmente estou cursando graduação em **Análise e Desenvolvimento de Sistemas (ADS)**, no período noturno, e foquei meus esforços em uma transição de carreira consistente para a área de tecnologia. Meu objetivo é construir uma base sólida em programação, lógica e análise de dados.
-
-Concluí recentemente o curso **Eu Progr{amo} | Análise de Dados** pela **PrograMaria**, com 20 horas de imersão prática em Python, SQL e visualização de dados. O Meu objetivo é construir uma base sólida em programação, lógica e análise de dados, direcionando essas competências para atuar estrategicamente em **Cybersecurity e Perícia Computacional Forense**.
+Atualmente estou cursando graduação em **Análise e Desenvolvimento de Sistemas (ADS)**, no período noturno, e foquei meus esforços em uma transição de carreira consistente para a área de tecnologia. Concluí recentemente o curso **Eu Progr{amo} | Análise de Dados** pela **PrograMaria**, com 20 horas de imersão prática em Python, SQL e visualização de dados. O Meu objetivo é construir uma base sólida em programação, lógica e análise de dados, direcionando essas competências para atuar estrategicamente em **Cybersecurity e Perícia Computacional Forense**.
 
 
 ---
